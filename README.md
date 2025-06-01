@@ -1,4 +1,4 @@
-# Copy of Tawsil App (Fronted ONLY)
+# Copy of Tawsil App (Frontend ONLY)
 
 ## Packages
     cupertino_icons: ^1.0.6
